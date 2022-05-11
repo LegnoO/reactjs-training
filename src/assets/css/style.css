@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.warp {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background-color: #eee;
+    flex-direction: column;
+}
